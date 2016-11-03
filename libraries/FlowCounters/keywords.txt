@@ -1,0 +1,17 @@
+# LITERAL1 specifies constants
+
+# KEYWORD1 specifies datatypes and C/C++ keywords
+FlowCounters	KEYWORD1	FlowCounters
+CallBackInterface	KEYWORD1	CallBackInterface
+
+# KEYWORD2 specifies methods and functions
+getCount	KEYWORD2	getCount
+getCountNoReset	KEYWORD2	getCountNoReset
+getPin	KEYWORD2	getPin
+cbmethod	KEYWORD2	cbmethod
+getStartTime	KEYWORD2	getStartTime
+getMillis	KEYWORD2	getMillis
+readHertz	KEYWORD2	readHertz
+readRPM	KEYWORD2	readRPM
+readLitersPerMin	KEYWORD2	readLitersPerMin
+readGPM	KEYWORD2	readGPM

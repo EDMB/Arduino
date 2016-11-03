@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+tunerDCF77	KEYWORD3
+decodeurDCF77	KEYWORD3
+decodeurDCF1	KEYWORD3
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+enregistrerFrontMontant	KEYWORD2
+enregistrerFrontDescendant	KEYWORD2
+qualiteReception	KEYWORD2
+traiterSignal	KEYWORD2
+longueur_trame_en_cours	KEYWORD2
+bit_trame	KEYWORD2
+millis_derniere_trame_ok	KEYWORD2
+begin	KEYWORD2
+start	KEYWORD2
+stop	KEYWORD2
+started	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
